@@ -1,0 +1,7 @@
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/AzureTestWebApp
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/appsettings.Development.json
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/appsettings.json
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/AzureTestWebApp.dll
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/AzureTestWebApp.deps.json
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/AzureTestWebApp.runtimeconfig.json
+/home/seba/Repos/Net/Azure/AzureTestWebApp/publish/AzureTestWebApp.pdb
